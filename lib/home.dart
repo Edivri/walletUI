@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: const [
                   Text("Welcome back",style: TextStyle(color: Colors.grey),),
-                  Text("Amirziya",style: TextStyle(color: Colors.white,fontSize: 25,fontWeight: FontWeight.bold),),
+                  Text("Benjamin",style: TextStyle(color: Colors.white,fontSize: 25,fontWeight: FontWeight.bold),),
                 ],
               ),
               Container(
