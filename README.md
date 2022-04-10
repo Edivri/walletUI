@@ -1,3 +1,3 @@
 # walletUI
-<img src="images/wallet.png>
+<img src="images/wallet.png">
  
